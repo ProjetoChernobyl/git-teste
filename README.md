@@ -3,8 +3,6 @@ Repositório para testar comandos do git
 
 
 ### Comandos para o terminal
-
-### Comandos passo a passo
 ```
 git clone https://github.com/ProjetoChernobyl/git-teste.git   
 git status   
@@ -12,7 +10,7 @@ git add "nome_do_arquivo"
 git commit -m "meu arquivo adicionado"   
 git push
 ```
-
+### Comandos passo a passo
 - Crie uma pasta com o nome `Git`
 - Digite:
 ```
